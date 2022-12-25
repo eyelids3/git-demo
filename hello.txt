@@ -11,3 +11,4 @@ Hello Git!
 001modify
 hot-fix 001commit
 master merge!
+hot-fix merge!
